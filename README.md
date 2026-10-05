@@ -1,6 +1,7 @@
 ## Hello, I'm Radwa ELReedy.🤗👋
 
-I'm **RadwaELReedy**, a Computer Engineering graduate from **ELShorouk Academy**
+I'm **RadwaELReedy**, a Computer Engineering graduate from **ELShorouk Academy**.
+
 I'm passionate about building **end-to-end AI systems**, from classical ML models
 to **LLM-powered applications** such as RAG systems and AI agents.
 
