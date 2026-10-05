@@ -1,4 +1,4 @@
-## Hello, I'm RadwaELReedy  👋
+## Hello, I'm Radwa ELReedy.🤗👋
 
 I'm **RadwaELReedy**, a Computer Engineering graduate from **ELShorouk Academy**
 
